@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func eight() {
 	var a [5]int
 	fmt.Println("emp:", a)
 
