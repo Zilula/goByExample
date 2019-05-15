@@ -2,7 +2,7 @@ package main
 import "fmt"
 import "time"
 
-func main() {
+func seven() {
 	i := 2 
 	fmt.Println("write", i, "as")
 	switch i {
